@@ -1,3 +1,4 @@
 *.o
 *.d
-mainexec
+rerun_test
+config.mk
